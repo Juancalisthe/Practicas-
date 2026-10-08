@@ -1,4 +1,0 @@
-# Practicas-
-
-\#practicas de c++
-
